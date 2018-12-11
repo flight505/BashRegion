@@ -3,7 +3,6 @@
 '''
 This function takes as input an Interval-format file and output all sgRNA
 sites in the interval in both CSV and FASTA format
-Author: Neville Sanjana (Zhang Lab)
 
 CHANGELOG:
 --------------------
